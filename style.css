@@ -1,10 +1,21 @@
+html, body {
+  background-image: repeating-linear-gradient(to top, pink, white, black, white);
+  margin: 0;
+  padding: 0;
+}
 h1 {
   text-align: center;
   margin: 5%;
   border: 1px solid black;
   background-color: #c0c0c0;
 }
-.cube, .cube1 {
+h3 {
+  color:white;
+  margin-bottom: 5%;
+}
+
+.contenu {
+  margin-left: 5%;
 }
 .cube {
     width: 200px;
